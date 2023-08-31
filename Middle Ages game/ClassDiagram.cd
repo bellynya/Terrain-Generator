@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Terrain">
+    <Position X="6" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Terrain::Vertex">
+        <TypeIdentifier>
+          <NewMemberFileName>src\Terrain.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAkAIAECgQAQAAARAhCAAAAAAAFACAEBAgAA=</HashCode>
+      <FileName>src\Terrain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidpointDispTerrain">
+    <Position X="9.75" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAggAAAAQAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\MidpointDispTerrain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FaultTerrainFormation">
+    <Position X="9.75" Y="3" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="FaultTerrainFormation::TerrainPoint">
+        <TypeIdentifier>
+          <NewMemberFileName>src\FaultTerrainFormation.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAMAAAAAAAAAAEAAIAAAAAAAAAAAAAo=</HashCode>
+      <FileName>src\FaultTerrainFormation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shader">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAAAAAAAAAIgAAAABIACAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>src\Shader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera">
+    <Position X="13.5" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACEBAAAEAAAAEoEABAAAABACgAAAAAAADQAAAAAAI=</HashCode>
+      <FileName>src\Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="House">
+    <Position X="17.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ARAEAAAAAAAIAAAAABAAAABAkAAAAAAAAXJmAABJgAA=</HashCode>
+      <FileName>src\House.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skybox">
+    <Position X="15.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIAAAAAAAEAAgAAAAAAAgAQAAAAAABACAEBAgAA=</HashCode>
+      <FileName>src\Skybox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

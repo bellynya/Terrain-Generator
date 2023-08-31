@@ -1,0 +1,9 @@
+bin/
+Third Party libs/
+.vs/
+.git/
+Middle Ages game.sln
+Middle Ages game/Middle Ages game.vcxproj
+Middle Ages game/Middle Ages game.vcxproj.filters
+Middle Ages game/Middle Ages game.vcxproj.user
+
